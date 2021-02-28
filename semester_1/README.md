@@ -2,20 +2,20 @@
 
 #### Links
 * CS-501
-    * [Lab](../tree/master/semester_1/CS_501/lab)
-    * [Theory](../tree/master/semester_1/CS_501/theory)
+    * [Lab](../semester_1/CS_501/lab)
+    * [Theory](../semester_1/CS_501/theory)
 * CS-503
-    * [Lab](../tree/master/semester_1/CS_503/lab)
-    * [Theory](../tree/master/semester_1/CS_503/theory)
+    * [Lab](../semester_1/CS_503/lab)
+    * [Theory](../semester_1/CS_503/theory)
 * CS-505
-    * [Lab](../tree/master/semester_1/CS_505/lab)
-    * [Theory](../tree/master/semester_1/CS_505/theory)
+    * [Lab](../semester_1/CS_505/lab)
+    * [Theory](../semester_1/CS_505/theory)
 * CS-507
-    * [Lab](../tree/master/semester_1/CS_507/lab)
-    * [Theory](../tree/master/semester_1/CS_507/theory)
+    * [Lab](../semester_1/CS_507/lab)
+    * [Theory](../semester_1/CS_507/theory)
 * CS-509
-    * [Lab](../tree/master/semester_1/CS_509/lab)
-    * [Theory](../tree/master/semester_1/CS_509/theory)
+    * [Lab](../semester_1/CS_509/lab)
+    * [Theory](../semester_1/CS_509/theory)
 
 #### Schedule
 

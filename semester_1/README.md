@@ -1,4 +1,4 @@
-### Semester 1 of MCS 2020
+### Semester 1 of MCS 2021
 
 #### Links
 * CS-501

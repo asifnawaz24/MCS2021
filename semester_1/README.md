@@ -19,12 +19,12 @@
 
 #### Schedule
 
-![Schedule 2021](../semester_1/schedule.jpg)
+![Schedule 2021](../semester_1/schedule.jpg "Schedule 2021 Winter")
 
 #### Course Details
 
 | Course Code | Course Name | Credit Hrs. |
-|-------------|:-------------:|-------------:|
+|-------------|:-------------:|:-------------:|
 | CS-501 | Fundamentals of Digital Computer | 2 + 1 |
 | CS-503 | Statistical Method | 2 + 1 |
 | CS-505 | Numerical Computing - I | 2 + 1 |

@@ -2,8 +2,8 @@
 Materials for MCS degree program
 
 ### Links
-* [Semester 1](../tree/semester_1)
+* [Semester 1](../master/semester_1)
 
-* [Semester 2](../tree/semester_2)
+* [Semester 2](../master/semester_2)
 
-* [Semester 3](../tree/semester_3)
+* [Semester 3](../master/semester_3)

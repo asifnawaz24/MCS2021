@@ -19,7 +19,7 @@
 
 #### Schedule
 
-![Schedule 2021](https://github.com/asifnawaz24/MCS2020/blob/master/semester_1/schedule.jpg "Schedule 2021 Winter")
+![Schedule 2021](../semester_1/schedule.jpg "Schedule 2021 Winter")
 
 #### Course Details
 

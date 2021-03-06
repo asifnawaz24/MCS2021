@@ -2,20 +2,25 @@
 
 #### Links
 * CS-501
-    * [Lab](../semester_1/CS_501/lab)
-    * [Theory](../semester_1/CS_501/theory)
+    * [Lab](../semester_1/CS_501_Fundamentals_of_Digital_Computers/lab)
+    * [Theory](../semester_1/CS_501_Fundamentals_of_Digital_Computers/theory)
+    * [Class Work](../semester_1/CS_501_Fundamentals_of_Digital_Computers/classwork)
 * CS-503
-    * [Lab](../semester_1/CS_503/lab)
-    * [Theory](../semester_1/CS_503/theory)
+    * [Lab](../semester_1/CS_503_Statistical_Methods/lab)
+    * [Theory](../semester_1/CS_503_Statistical_Methods/theory)
+    * [Class Work](../semester_1/CS_503_Statistical_Methods/classwork)
 * CS-505
-    * [Lab](../semester_1/CS_505/lab)
-    * [Theory](../semester_1/CS_505/theory)
+    * [Lab](../semester_1/CS_505_Numerical_Computing_1/lab)
+    * [Theory](../semester_1/CS_505_Numerical_Computing_1/theory)
+    * [Class Work](../semester_1/CS_505_Numerical_Computing_1/classwork)
 * CS-507
-    * [Lab](../semester_1/CS_507/lab)
-    * [Theory](../semester_1/CS_507/theory)
+    * [Lab](../semester_1/CS_507_Linear_Programming/lab)
+    * [Theory](../semester_1/CS_507_Linear_Programming/theory)
+    * [Class Work](../semester_1/CS_507_Linear_Programming/classwork)
 * CS-509
-    * [Lab](../semester_1/CS_509/lab)
-    * [Theory](../semester_1/CS_509/theory)
+    * [Lab](../semester_1/CS_509_Programming_Languages/lab)
+    * [Theory](../semester_1/CS_509_Programming_Languages/theory)
+    * [Class Work](../semester_1/CS_509_Programming_Languages/classwork)
 
 #### Schedule
 

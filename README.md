@@ -7,5 +7,3 @@ Materials for MCS degree program
 * [Semester 2](../master/semester_2)
 
 * [Semester 3](../master/semester_3)
-
-## ⚠ ALL ENCRYPTED WIN-RAR FILES PASS-CODE IS: asifnawaz24  

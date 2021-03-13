@@ -1,10 +1,10 @@
 Lab requirements:
-[SWI-Prolog](#SWI-Prolog)
-[Python](#Python)
-[C/C++](#C/C++)
-[Racket](#Racket)
+[SWI-Prolog](#swi-prolog)
+[Python](#python)
+[C/C++](#cc)
+[Racket](#racket)
 
-## SWI-Prologssss
+## SWI-Prolog
 
 ## Python
 

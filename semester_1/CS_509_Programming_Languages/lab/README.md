@@ -1,4 +1,4 @@
-Lab requirements:
+## Lab requirements:
 * [SWI-Prolog](#swi-prolog)
 * [Python](#python)
 * [C/C++](#cc)
